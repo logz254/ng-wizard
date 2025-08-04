@@ -1,21 +1,21 @@
 {
-  "name": "ng-wizard",
+  "name": "@logz254/ng-wizard",
   "description": "Angular ng-wizard - Angular wizard | stepper",
-  "version": "18.0.1",
+  "version": "20.1.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abdulkadirgenc/ng-wizard.git"
+    "url": "https://github.com/logz254/ng-wizard.git"
   },
   "bugs": {
-    "url": "https://github.com/abdulkadirgenc/ng-wizard/issues"
+    "url": "https://github.com/logz254/ng-wizard/issues"
   },
-  "author": "Abdulkadir Genç <gencakadir@gmail.com>",
-  "homepage": "https://github.com/abdulkadirgenc/ng-wizard",
+  "author": "Allan Logedi <allanlogz@gmail.com>",
+  "homepage": "https://github.com/logz254/ng-wizard",
   "license": "MIT",
   "private": false,
   "peerDependencies": {
-    "@angular/common": "^18.0.0",
-    "@angular/core": "^18.0.0"
+    "@angular/common": "^20.1.4",
+    "@angular/core": "^20.1.4"
   },
   "dependencies": {
     "tslib": "^2.3.0"
